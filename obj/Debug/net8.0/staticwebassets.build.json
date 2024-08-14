@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nDzyprQPdyHGPmZxLGBHXDlRTNpt0z61AYobdalcSOo=",
+  "Source": "graphql-api",
+  "BasePath": "_content/graphql-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
